@@ -16,6 +16,7 @@ Description:<br>
 •	PC2 and PC3 are assigned to VLAN 20.<br>
 •	All PCs are connected to different ports on the same switch.<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
+<img width="640" height="376" alt="Screenshot 2026-10-28 174559" src="https://github.com/user-attachments/assets/4c2f83f4-7ef1-46b3-bbca-fb50db319b09" />
 ________________________________________
 # IP Addressing Table
 Device	VLAN	IP Address	Subnet Mask	Port<br>
@@ -64,7 +65,10 @@ ________________________________________
 <img width="632" height="398" alt="Screenshot 2026-10-28 174654" src="https://github.com/user-attachments/assets/c08bb81a-5dc4-4bbc-91ce-88e5cdfae95f" />
 
 •	PC IP settings<br>
-<img width="640" height="376" alt="Screenshot 2026-10-28 174559" src="https://github.com/user-attachments/assets/4c2f83f4-7ef1-46b3-bbca-fb50db319b09" />
+<img width="640" height="317" alt="Screenshot 2026-10-28 175735" src="https://github.com/user-attachments/assets/2c988bec-8973-4da6-96f9-7bd14f2758e1" />
+<img width="637" height="317" alt="Screenshot 2026-10-28 175824" src="https://github.com/user-attachments/assets/2952dafd-ae72-4429-b77f-1e82ed9ca98f" />
+<img width="640" height="376" alt="Screenshot 2026-10-28 175842" src="https://github.com/user-attachments/assets/f43a4440-9761-4177-88db-9e1ebfa28f1c" />
+<img width="637" height="364" alt="Screenshot 2026-10-28 175856" src="https://github.com/user-attachments/assets/4368730e-d2c1-4a19-94ba-50262246381c" />
 
 •	Successful ping between PCs in the same VLAN<br>
 <img width="637" height="376" alt="Screenshot 2026-10-28 174523" src="https://github.com/user-attachments/assets/06d6f7c7-507c-4932-86ee-053f5a77b5bc" />
